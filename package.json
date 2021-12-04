@@ -1,0 +1,27 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "![license](https://img.shields.io/github/license/EllaFerreira/Note-Taker) ![Inquirer](https://img.shields.io/badge/Package-Dotenv-purple.svg) ![MySQL](https://img.shields.io/badge/AppWith-MySQL-blue.svg) ![Nodejs](https://img.shields.io/badge/AppWith-NodeJS-green.svg) ![Express](https://img.shields.io/badge/AppWith-ExpressJS-orange.svg) ![Sequilize](https://img.shields.io/badge/Package-Sequilize-magenta..svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EllaFerreira/Tech-Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EllaFerreira/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/EllaFerreira/Tech-Blog#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express-handlebars": "^6.0.2",
+    "express-session": "^1.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0-alpha.1"
+  }
+}
