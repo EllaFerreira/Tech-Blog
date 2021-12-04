@@ -9,7 +9,9 @@
 
 ## About this Project
 
+Tech Blog is an app which follow the Model View Controller paradigm, using MySQL as db, express-handlebars to implement handlebars for views and sequelize to connect sql to models.
 
+**Note:**
 
 
 ## Mock up
