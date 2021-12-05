@@ -1,11 +1,11 @@
 # Tech-Blog 💻 🗣 🧡
 
-![license](https://img.shields.io/github/license/EllaFerreira/Note-Taker)
+![license](https://img.shields.io/github/license/EllaFerreira/Tech-Blog)
 ![Inquirer](https://img.shields.io/badge/Package-Dotenv-purple.svg)
 ![MySQL](https://img.shields.io/badge/AppWith-MySQL-blue.svg)
 ![Nodejs](https://img.shields.io/badge/AppWith-NodeJS-green.svg)
 ![Express](https://img.shields.io/badge/AppWith-ExpressJS-orange.svg)
-![Sequilize](https://img.shields.io/badge/Package-Sequilize-magenta..svg)
+![Sequelize](https://img.shields.io/badge/Package-Sequelize-magenta..svg)
 
 ## About this Project
 
