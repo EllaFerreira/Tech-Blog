@@ -97,6 +97,10 @@ Download the [Insomnia](https://insomnia.rest/)
 
 - Run `node server` to start the server
 
+**Test Instructions:**
+- Make sure you have `jest package` installed
+- Then run `npm run test` 
+
 ## Sources
 
 - [Express](https://expressjs.com/en/starter/hello-world.html)
