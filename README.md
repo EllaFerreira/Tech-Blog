@@ -9,7 +9,7 @@
 
 ## About this Project
 
-Tech Blog is an app which follow the Model View Controller paradigm, using MySQL as db, express-handlebars to implement handlebars for views and sequelize to connect sql to models.
+Tech Blog is an app which follow the `Model View Controller` paradigm, using MySQL as db, express-handlebars to implement handlebars for views and sequelize to connect sql to models.
 
 **Note:**
 
@@ -24,6 +24,7 @@ Tech Blog is an app which follow the Model View Controller paradigm, using MySQL
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Technologies](#technologies)
+- [Installation](#installation)
 - [Sources](#sources)
 - [Project Creator](#project-creator)
 
@@ -83,6 +84,18 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 - dotenv and bycrypt package;
 - Mysql2 npm package;
 - Sequelize;
+
+## Installation
+To be able to run and test this application user must:
+- Clone the repo into your code editor (eg.vs code)
+- Run `npm install`
+- Create the db table running `mysql -u root -p`, after that quit the db server
+- Seed the db running `node seeds/index`
+
+**Testing the endpoints with Insomnia:**
+Download the [Insomnia](https://insomnia.rest/)
+
+- Run `node server` to start the server
 
 ## Sources
 
