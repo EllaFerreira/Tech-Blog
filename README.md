@@ -1,11 +1,11 @@
 # Tech-Blog 💻 🗣 🧡
 
-![license](https://img.shields.io/github/license/EllaFerreira/Tech-Blog)
-![Inquirer](https://img.shields.io/badge/Package-Dotenv-purple.svg)
+![License](https://img.shields.io/github/license/EllaFerreira/Tech-Blog)
+![JavaScript](https://img.shields.io/badge/AppWith-JavaScript-magenta.svg)
 ![MySQL](https://img.shields.io/badge/AppWith-MySQL-blue.svg)
 ![Nodejs](https://img.shields.io/badge/AppWith-NodeJS-green.svg)
 ![Express](https://img.shields.io/badge/AppWith-ExpressJS-orange.svg)
-![Sequelize](https://img.shields.io/badge/Package-Sequelize-magenta..svg)
+![Sequelize](https://img.shields.io/badge/Package-Sequelize-yellow.svg)
 
 ## About this Project
 
@@ -13,6 +13,7 @@ Tech Blog is an app which follow the Model View Controller paradigm, using MySQL
 
 **Note:**
 
+## Deploy
 
 ## Mock up
 
@@ -79,7 +80,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 - Node/Express js - backend;
 - JavaScript;
 - Handlebars;
-- dotenb and bycrypt package;
+- dotenv and bycrypt package;
 - Mysql2 npm package;
 - Sequelize;
 
@@ -93,4 +94,4 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 [EllaFerreira](https://github.com/EllaFerreira)
 
-© 2021 Team Profile Generator. All rights reserved
+© 2021 Tech Blog. All rights reserved
