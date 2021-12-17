@@ -4,7 +4,9 @@
   "description": "![license](https://img.shields.io/github/license/EllaFerreira/Note-Taker) ![Inquirer](https://img.shields.io/badge/Package-Dotenv-purple.svg) ![MySQL](https://img.shields.io/badge/AppWith-MySQL-blue.svg) ![Nodejs](https://img.shields.io/badge/AppWith-NodeJS-green.svg) ![Express](https://img.shields.io/badge/AppWith-ExpressJS-orange.svg) ![Sequilize](https://img.shields.io/badge/Package-Sequilize-magenta..svg)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
   },
   "repository": {
     "type": "git",
