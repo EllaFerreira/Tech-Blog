@@ -15,7 +15,7 @@ Tech Blog is an app which follow the `Model View Controller` paradigm, using MyS
 
 ## Deploy
 
-
+[check here](https://tech123blog.herokuapp.com/)
 
 ## Content
 
