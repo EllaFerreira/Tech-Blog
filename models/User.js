@@ -31,7 +31,7 @@ User.init(
       allowNull: false,
       validate: {
         len: {
-          args: [6, 10],
+          args: [6, 20],
         },
       },
     },

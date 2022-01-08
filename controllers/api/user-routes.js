@@ -1,5 +1,6 @@
 const router = require('express').Router();
 const { User, Comment, Post } = require('../../models');
+const auth = require("../../utils/auth");
 
 router.get("/", (req, res) => {
   User.findAll({
@@ -114,7 +115,7 @@ router.post("/logout", (req, res) => {
   }
 });
 
-router.put("/:id", (req, res) => {
+router.put("/:id", auth, (req, res) => {
   User.update(req.body, {
     individualHooks: true,
     where: {
@@ -134,7 +135,7 @@ router.put("/:id", (req, res) => {
     });
 });
 
-router.delete("/:id", (req, res) => {
+router.delete("/:id", auth, (req, res) => {
   User.destroy({
     where: {
       id: req.params.id,
